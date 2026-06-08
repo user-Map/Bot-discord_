@@ -1,4 +1,4 @@
-# 🎮 BOT DISCORD ULTIMATE — NGUYEN KHOo 🛠️
+# 🎮 BOT DISCORD ULTIMATE — NGUYEN KHOI 🛠️
 
 > 🤖 Auto Quest | Lấy Huy Hiệu HypeSquad | Tối ưu hiệu suất
 
