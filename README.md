@@ -24,10 +24,7 @@
 ### 1. Yêu cầu
 - Python 3.10+ ([Tải tại đây](https://www.python.org/downloads/))
 
-### 2. Clone repository
-```bash
-git clone https://github.com/user-Map/Bot-discord_.git
-cd Bot-discord_
+### 2. How to install
 
 # install mudole
 ```pip install discord.py-self aiohttp```
