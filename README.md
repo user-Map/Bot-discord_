@@ -26,14 +26,9 @@
 
 ### 2. How to install
 
-# install mudole
+### install mudole
 ```pip install discord.py-self aiohttp```
-# run
+### run
 ```python bot-discord.py```
 
 # Lệnh Chức năng
-/menu Hiển thị menu chính
-/cancel Dừng tiến trình đang chạy
-/status Xem trạng thái tiến trình
-/invite Lấy link mời bot
-
